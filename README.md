@@ -16,7 +16,7 @@ El libro de trabajo empaquetado practica_datavisualization.twbx se puede descarg
 - Google Drive
 https://drive.google.com/file/d/14S1gVUKC4QgZpuzxHgBqscc68mPbeGTr/view?usp=sharing
 
-Muestra por defecto el Top 12 de los barrios de Madrid con mayor promedio del precio total.
+Muestra por defecto el Top 12 de los barrios de Madrid con mayor promedio del precio total.  
 Consta de la siguiente información definida en las hojas de trabajo:
 
 1. POLÍTICA DE CANCELACIÓN POR BARRIOS
@@ -29,17 +29,17 @@ Consta de la siguiente información definida en las hojas de trabajo:
 
 Teniendo en cuenta:
 
-- PRECIO TOTAL = [Price]+ ([Cleaning Fee]/365)
-- BATHROOMS (agrupación)
-- BEDROOMS (agrupación)
-- JERARQUIA TIPO ALOJAMIENTO (Property type (grupo), Room Type A, Bed Type) donde 
+- PRECIO TOTAL = [Price]+ ([Cleaning Fee]/365) 
+- BATHROOMS (agrupación)  (vista 3)
+- BEDROOMS (agrupación)  (vista 3)
+- JERARQUIA TIPO ALOJAMIENTO (Property type (grupo), Room Type A, Bed Type)  (vista 5)
 - Property type (grupo) define el grupo Other Agr.   
 - Room Type A es campo calculado.
-- PROMEDIO POR PANEL DEL PROMEDIO DEL PRECIO EN LA HOJA DE TRABAJO 5
-- CALCULO DE TABLAS RAPIDO (PORCENTAJE DEL TOTAL) SOBRE EL PROM. DEL PRECIO TOTAL Y PROM. DE LA FIANZA
-- LÍNEAS DE TENDENCIA DEL TOTAL ACUMULADO DEL Nº DE VIVIENDAS POR BARRIO con R.Cuadrado muy próximo a 1
+- PROMEDIO POR PANEL DEL PROMEDIO DEL PRECIO (vista 5)
+- CALCULO DE TABLAS RAPIDO (PORCENTAJE DEL TOTAL) (vista 6)
+- LÍNEAS DE TENDENCIA (vista 7) con R.Cuadrado muy próximo a 1
 
-El nº de vistas utilizado en el dashboard excede del máximo indicado, y puede que quede algo recargado pero he intentado contemplar los distintos gráficos vistos en el módulo.x
+El nº de vistas utilizado en el dashboard excede del máximo indicado, y puede que quede algo recargado pero he intentado contemplar los distintos gráficos vistos en el módulo.
 
 
 
