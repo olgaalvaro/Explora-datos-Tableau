@@ -37,7 +37,10 @@ Teniendo en cuenta:
 - Room Type A es campo calculado.
 - PROMEDIO POR PANEL DEL PROMEDIO DEL PRECIO EN LA HOJA DE TRABAJO 5
 - CALCULO DE TABLAS RAPIDO (PORCENTAJE DEL TOTAL) SOBRE EL PROM. DEL PRECIO TOTAL Y PROM. DE LA FIANZA
-- LÍNEAS DE TENDENCIA DEL TOTAL ACUMULADO DEL Nº DE VIVIENDAS POR BARRIO 
+- LÍNEAS DE TENDENCIA DEL TOTAL ACUMULADO DEL Nº DE VIVIENDAS POR BARRIO con R.Cuadrado muy próximo a 1
+
+El nº de vistas utilizado en el dashboard excede del máximo indicado, y puede que quede algo recargado pero he intentado contemplar los distintos gráficos vistos en el módulo.
+
 
 
 
