@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1dQVwLQ-_Uh6Afp-udWDcXRoilBONB6u9
 El libro de trabrajo empaquetado practica_datavisualization.twbx se puede descargar por dos vías:
 
 - Github en la carpeta PracticaTableau
-- A través de Google Drive
+- Google Drive
 https://drive.google.com/file/d/14S1gVUKC4QgZpuzxHgBqscc68mPbeGTr/view?usp=sharing
 
 
