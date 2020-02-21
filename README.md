@@ -9,6 +9,7 @@ https://colab.research.google.com/drive/1dQVwLQ-_Uh6Afp-udWDcXRoilBONB6u9
 
 
 Formato de la entrega
+
 https://drive.google.com/file/d/14S1gVUKC4QgZpuzxHgBqscc68mPbeGTr/view?usp=sharing
 
 
