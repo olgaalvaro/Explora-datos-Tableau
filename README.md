@@ -27,8 +27,8 @@ Consta de la siguiente información definida en las hojas de trabajo:
 6. PORCENTAJE TOTAL DEL PRECIO TOTAL VS FIANZA CALCULADO ENTRE 2011-2015 TRIMESTRAL
 7. TENDENCIA DE ADQUISICIÓN DE NUEVAS VIVIENDAS DESDE 2011 HASTA 2017
 
-Si el valor del Top se modifica se recalcula la información en todas las vistas.  
-La vista 1 POLÍTICA DE CANCELACIÓN POR BARRIOS actua de origen, de tal manera que si se selecciona algún barrio en concreto o alguna política de cancelación, igualmente la información se recalcula en el resto de las vistas.
+Si el valor del Top se modifica se recalcula la información en todas las vistas (definida una acción con el cambio del valor de dicho parámetro Top N).  
+La vista 1 POLÍTICA DE CANCELACIÓN POR BARRIOS actua de origen, de tal manera que si se selecciona algún barrio en concreto o alguna política de cancelación, igualmente la información se recalcula en el resto de las vistas (definido una acción como filtro).
 
 Teniendo en cuenta:
 
