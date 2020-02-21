@@ -43,7 +43,3 @@ Teniendo en cuenta:
 - LÍNEAS DE TENDENCIA (vista 7) con R.Cuadrado muy próximo a 1
 
 El nº de vistas utilizado en el dashboard excede del máximo indicado, y puede que quede algo recargado pero he intentado contemplar los distintos gráficos vistos en el módulo.
-
-
-
-
