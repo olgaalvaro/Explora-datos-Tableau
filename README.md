@@ -28,7 +28,7 @@ Consta de la siguiente información definida en las hojas de trabajo:
 7. TENDENCIA DE ADQUISICIÓN DE NUEVAS VIVIENDAS DESDE 2011 HASTA 2017
 
 Si el valor del Top se modifica se recalcula la información en todas las vistas (definida una acción con el cambio del valor de dicho parámetro Top N).  
-La vista 1 POLÍTICA DE CANCELACIÓN POR BARRIOS actua de origen, de tal manera que si se selecciona algún barrio en concreto o alguna política de cancelación, igualmente la información se recalcula en el resto de las vistas (definido una acción como filtro).
+La vista 1 POLÍTICA DE CANCELACIÓN POR BARRIOS actua de origen, de tal manera que si se selecciona algún barrio en concreto o alguna política de cancelación, igualmente la información se recalcula en el resto de las vistas (definido una acción con el filtro Neighbourhood).
 
 Teniendo en cuenta:
 
