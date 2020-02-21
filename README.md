@@ -29,8 +29,11 @@ Consta de la siguiente información definida en las hojas de trabajo:
 Teniendo en cuenta:
 
 PRECIO TOTAL = [Price]+ ([Cleaning Fee]/365)
+
 BATHROOMS (agrupación)
+
 BEDROOMS (agrupación)
+
 JERARQUIA TIPO ALOJAMIENTO (Property type (grupo), Room Type A, Bed Type) donde 
 Property type (grupo) define el grupo Other Agr.   
 Room Type A es campo calculado:
